@@ -5,13 +5,16 @@ Unfortunately this project has been inactive since I started working as a progra
 
 Luckily I occasionally take videos of my projects so I can look back at the progress I've made. Unluckily a lot of features and changes aren't visible in these recordings.
 
+Link to published game:
+https://www.roblox.com/games/11284697164/Bloxorz-Remake
+
 Here are some recordings of old and unpolished features:
 
-Movement and level changes:
-https://youtu.be/9WMtr6o_bVc
+Gameplay:
+https://youtu.be/ZhY0tsXBc08
 
 Early UI in HoarceKat:
-https://youtu.be/sI7SfEvH5Rc
+https://youtu.be/wVuYq85zjBA
 
 ![bloxorz ui](https://user-images.githubusercontent.com/53511594/195245003-b8e01c2b-8873-4186-9601-13a32e2fc4ef.png)
 ![bloxorz-gameplay](https://user-images.githubusercontent.com/53511594/195245013-02c8246f-0577-4349-a89c-2e43991c2244.png)
